@@ -1,15 +1,3 @@
-# This repo has been deprecated and merged into the Edvise monorepo. It is no longer actively maintained as of March 10, 2023.
-
-# Naming convention
-
-## files/folder
-
-### folders: kebab-case
-
-### components: PascalCase e.g LessonCard.tsx
-
-### hooks: useFoo e.g 'useLocalStorage'
-
 # Folder Purpose
 
 ## src/assets/
